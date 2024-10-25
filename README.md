@@ -1,4 +1,4 @@
-# Decision Tree and PCA
+# Decision Tree and Principal Component Analysis
 
 This repository contains implementations of **Decision Tree** and **Principal Component Analysis (PCA)** models for disease prediction and dimensionality reduction tasks.
 
