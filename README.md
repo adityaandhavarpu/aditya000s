@@ -1,4 +1,4 @@
-# ML Assignment: Decision Tree and PCA
+# Decision Tree and PCA
 
 This repository contains implementations of **Decision Tree** and **Principal Component Analysis (PCA)** models for disease prediction and dimensionality reduction tasks.
 
@@ -41,7 +41,7 @@ This repository contains implementations of **Decision Tree** and **Principal Co
     - Open `22EE30003_A2_Part2.ipynb` for the PCA implementation.
     - Execute cells sequentially to train models and view results.
 
-3. Review `22EE30003_report.pdf` for a summary and insights from the assignment.
+3. Review `22EE30003_report.pdf` for a summary and insights from the project.
 
 ---
 
